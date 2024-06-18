@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BigHomework1</string>
+
+    <string name="menu_home">个人中心</string>
+    <string name="menu_gallery">查看专属词云</string>
+    <string name="menu_slideshow">我的收藏</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
