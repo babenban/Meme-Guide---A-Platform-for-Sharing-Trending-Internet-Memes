@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="HomePage">
+        <State />
+      </entry>
+      <entry key="InsertPic">
+        <State />
+      </entry>
+      <entry key="Login">
+        <State />
+      </entry>
+      <entry key="Publish_Post">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\asus\.android\avd\Pixel_7_API_26.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-15T05:14:16.207373400Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
